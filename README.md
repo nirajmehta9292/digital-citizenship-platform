@@ -284,7 +284,7 @@ Proprietary - BYT Education Platform. All rights reserved.
 
 ## 📞 Support
 
-- **Email**: support@byt.education
+- **Email**: 
 - **Documentation**: [docs](./docs/)
 - **API Issues**: [backend/README.md](./backend/README.md)
 - **Frontend Issues**: [frontend/README.md](./frontend/README.md)
@@ -314,7 +314,7 @@ The curriculum is aligned with:
 
 ## 💡 Inspiration
 
-Built to replicate and enhance the capabilities of [byt.education](https://byt.education/), this platform empowers schools to teach digital citizenship and AI literacy effectively.
+This platform empowers schools to teach digital citizenship and AI literacy effectively.
 
 ---
 
