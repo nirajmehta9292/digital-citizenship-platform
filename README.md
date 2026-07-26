@@ -1,4 +1,4 @@
-# BYT Education Platform
+# AstraX Education Platform
 
 A comprehensive end-to-end Digital Citizenship & AI Literacy platform for primary and middle schools. Built to teach students how to stay safe online, use AI responsibly, and make smart digital choices.
 
